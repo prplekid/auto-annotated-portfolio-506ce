@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/Untitled-1.jpg
+  url: /images/Z GEEZ FINAL.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
