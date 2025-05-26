@@ -4,7 +4,9 @@ title: PRODUCER LOGO
 colors: colors-a
 date: '2024-12-28'
 client: ZE GEEZ (ዘ ግእዝ)
-description: 'Designed an abstract, geometric logo for a music producer—'
+description: >-
+  Designed an abstract, geometric logo for a music producer—precisely aligned,
+  balancing form and rhythm in a structured aesthetic
 featuredImage:
   type: ImageBlock
   url: /images/Z GEEZ FINAL.jpg
