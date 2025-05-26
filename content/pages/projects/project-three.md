@@ -5,9 +5,8 @@ colors: colors-a
 date: '2022-01-22'
 client: ZE GEEZ (ዘ ግእዝ)
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Designed an abstract, geometric logo for a music producer—precisely aligned,
+  balancing form and rhythm in a structured aesthetic
 featuredImage:
   type: ImageBlock
   url: /images/Z GEEZ FINAL.jpg
