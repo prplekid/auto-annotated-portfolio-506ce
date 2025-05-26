@@ -6,7 +6,9 @@ date: '2024-12-28'
 client: ZE GEEZ (ዘ ግእዝ)
 description: >-
   Designed an abstract, geometric logo for a music producer—precisely aligned,
-  balancing form and rhythm in a structured aesthetic
+  balancing form and rhythm in a structured aesthetic, Altogether, it's a logo
+  that feels at once timeless and forward-looking, sharp yet balanced — the
+  visual equivalent of a cryptic mantra or a cultural sigil
 featuredImage:
   type: ImageBlock
   url: /images/Z GEEZ FINAL.jpg
