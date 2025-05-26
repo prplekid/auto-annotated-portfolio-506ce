@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: PRODUCER LOGO
 colors: colors-a
-date: '2022-02-22'
+date: '2024-12-22'
 client: ZE GEEZ (ዘ ግእዝ)
 description: >-
   Designed an abstract, geometric logo for a music producer—precisely aligned,
