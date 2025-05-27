@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/pop art by me of beni amer FINAL.jpg
-  altText: Project thumbnail image
+  altText: 'BENI AMER '
 media:
   type: ImageBlock
   url: /images/bg1.jpg
