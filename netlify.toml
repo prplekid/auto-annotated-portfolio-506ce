@@ -1,6 +1,9 @@
 [build]
-  publish = ".next"
+  publish = ".next/static"
   command = "npm run build"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
+
+  [context.production.enviroment]
+  NEXT_PUBLIC_ANALYTICS_ID = "123"
