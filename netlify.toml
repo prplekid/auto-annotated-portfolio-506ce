@@ -5,7 +5,7 @@
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
-  [context.production.enviroment]
+  [context.production.environment]
   NEXT_PUBLIC_ANALYTICS_ID = "123"
 
   [functions]
