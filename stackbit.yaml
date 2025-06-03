@@ -1,9 +1,10 @@
 stackbitVersion: ~0.3.0
 ssgName: nextjs
-nodeVersion: "20"
+nodeVersion: '20'
 cmsName: git
 devCommand: npm run dev
 publishDir: out
+
 models:
   - name: page
     label: Page
@@ -15,7 +16,8 @@ models:
       - name: body
         label: Body
         type: markdown
- - name: project
+
+  - name: project
     label: Project
     file: content/pages/projects/index
     fields:
