@@ -1,5 +1,5 @@
 ---
-type: PageLayout
+modelType: page
 title: Home
 colors: colors-d
 backgroundImage:

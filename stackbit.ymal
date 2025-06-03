@@ -4,3 +4,14 @@ nodeVersion: "20"
 cmsName: git
 devCommand: npm run dev
 publishDir: out
+models:
+  - name: page
+    label: Page
+    file: content/pages/index
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: markdown
