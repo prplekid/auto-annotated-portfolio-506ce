@@ -1,5 +1,5 @@
 [build]
-  publish = ".next/static"
+  publish = ".next"
   command = "npm run build"
 
 [[plugins]]
@@ -7,3 +7,6 @@
 
   [context.production.enviroment]
   NEXT_PUBLIC_ANALYTICS_ID = "123"
+
+  [functions]
+  node_bundler = "esbuild"
