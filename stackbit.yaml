@@ -15,3 +15,13 @@ models:
       - name: body
         label: Body
         type: markdown
+ - name: project
+    label: Project
+    file: content/pages/projects/index
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: markdown

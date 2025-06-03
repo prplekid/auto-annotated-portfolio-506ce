@@ -1,6 +1,6 @@
 ---
-modelType: page
-title: Home
+type: project
+title: project
 colors: colors-d
 backgroundImage:
   type: BackgroundImage
