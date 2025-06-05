@@ -5,10 +5,10 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  Essay on Image, Memory, and Symbol This image began as a photograph — taken in
-  1965, in Eritrea, of a boy from the Beni Amer tribe. It appeared in National
-  Geographic, and from there, it quietly entered the walls and memories of
-  thousands
+  Essay on Image, Memory, and Symbol: This image began as a photograph — taken
+  in 1965, in Eritrea, of a boy from the Beni Amer tribe. It appeared in
+  National Geographic, and from there, it quietly entered the walls and memories
+  of thousands
 featuredImage:
   type: ImageBlock
   url: /images/pop art by me of beni amer FINAL.jpg
