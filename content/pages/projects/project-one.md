@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: BENI AMER CULTURAL ICONOGRAPHY
 colors: colors-a
-date: '2021-10-15'
+date: '2024-12-15'
 client: Awesome client
 description: >-
   Essay on Image, Memory, and Symbol: This image began as a photograph — taken
