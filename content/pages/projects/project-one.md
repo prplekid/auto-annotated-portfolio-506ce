@@ -5,9 +5,10 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Essay on Image, Memory, and Symbol This image began as a photograph — taken in
+  1965, in Eritrea, of a boy from the Beni Amer tribe. It appeared in National
+  Geographic, and from there, it quietly entered the walls and memories of
+  thousands
 featuredImage:
   type: ImageBlock
   url: /images/pop art by me of beni amer FINAL.jpg
