@@ -3,7 +3,7 @@ type: ProjectLayout
 title: BENI AMER CULTURAL ICONOGRAPHY
 colors: colors-a
 date: '2024-12-15'
-client: Awesome client
+client: SELF
 description: >-
   Essay on Image, Memory, and Symbol: This image began as a photograph — taken
   in 1965, in Eritrea, of a boy from the Beni Amer tribe. It appeared in
