@@ -1,8 +1,6 @@
 // pages/index.tsx
-export default function Home() {
-    return <h1>Welcome to My site</h1>; 
-}
-</h1>import Apple from './apple';
+
+import Apple from './apple';
 import ArrowLeft from './arrow-left';
 import ArrowLeftCircle from './arrow-left-circle';
 import ArrowRight from './arrow-right';
@@ -53,3 +51,7 @@ export const iconMap = {
     vimeo: Vimeo,
     youtube: YouTube
 };
+
+export default function Home() {
+    return <h1>Welcome to My site</h1>;
+}
