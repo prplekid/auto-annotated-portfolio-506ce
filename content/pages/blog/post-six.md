@@ -1,11 +1,10 @@
 ---
 type: PostLayout
-title: How to Structure and Organize a Next.js Project 🗂️
+title: "How to Structure and Organize a Next.js Project \U0001F5C2️"
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
@@ -34,7 +33,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
@@ -82,13 +81,13 @@ bottomSections:
         flexDirection: row
         textAlign: left
 ---
+This image began as a photograph -- taken in 1965, in Eritrea, of a boy from the Beni Amer tribe. It appeared in National Geographic, and from there, it quietly entered the walls and memories of thousands: in Ethiopia, in diaspora homes, in guesthouses and hotel lobbies. For decades, the boy’s image was everywhere. And yet -- no one knew his name or his story. That contradiction struck me. The boy was familiar, but unknown. Loved, but never questioned, he became a kind of silent icon. In an age where images outlive names, were myth eclipses memory, I offer not biography - but symbol. The boy is no longer who he was. He is who we need him to be: joy, resilience, forgotten history, and A flicker of hope. I remember seeing this boy’s face as a child, I was struck by the bizarreness of his figure, like RAS DASHIN peaks shrouded in morning fog, where the air itself seems thick with forgotten tales, and the landscape hums with a quiet, unsettling power, that stayed with me Years later, I’ve come to see him as a silent promise: a symbol of youth, dignity, and the strange power of presence. This work isn’t about explaining him -- it’s about honoring what he gave me, and what he gave so many without a word. The choosing of portraying in Cultural Iconography as I call it is not for its style alone, but for its history -- built on repetition, appropriation, and icon-making. That had already happened to this boy -- but without context, By reworking his
+image, I reclaim that language. The bold colors aren’t decoration -- they’re a call to look again. To see what we’ve always carried This isn’t
+nostalgia, or biography. The image was never treated as memory -- it was copied, commodified, and forgotten. So I interrupt that silence. Not to celebrate, but to wake it up. To say: look again. He was everywhere. Now let him mean something.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+
+
