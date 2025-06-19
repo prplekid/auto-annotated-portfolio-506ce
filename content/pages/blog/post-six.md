@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'an article on image '
+title: 'An Essay on Image, Memory, and Symbol'
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
